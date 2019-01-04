@@ -1,0 +1,12 @@
+name: project_1
+title:
+username:
+account: dkiril4
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 279559
+bundleId: 1220279
+url: https://dkiril4.shinyapps.io/project_1/
+when: 1518488693.36661
+asMultiple: FALSE
+asStatic: FALSE
